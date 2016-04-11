@@ -1,8 +1,9 @@
 <?php
 function loader($class)
 {
-    $file = $class . '.php';
+    $file = '../src/'.$class . '.php';
     if (file_exists($file)) {
+    	var_dump($file);
         require $file;
     }
 }
