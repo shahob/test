@@ -1,0 +1,10 @@
+{
+    "name": "shahob/test",
+    "authors": [
+        {
+            "name": "Исамов Шахоб",
+            "email": "shisamov@at-consulting.ru"
+        }
+    ],
+    "require": {}
+}
